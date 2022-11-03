@@ -38,3 +38,4 @@ t.goto(x2,y2)
 t.write("점의 길이="+str(length))
 
 turtle.mainloop()
+ 
